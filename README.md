@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+[![codewars](https://www.codewars.com/users/MasKot/badges/large)](https://www.codewars.com/users/MasKot)
 
 <!--
 **ismaskaev/ismaskaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
